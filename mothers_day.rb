@@ -3,5 +3,3 @@
 def mothers_day(name)
   puts "Happy Mothers's Day, #{name}!"
 end
-
-mothers_day()
