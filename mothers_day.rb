@@ -13,3 +13,5 @@ end
 def mothers_day(name="Mom")
 	puts "Happy mothers day, #{name}! I hope you have a great day!"
 end
+
+mothers_day
